@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-<title>File Upload with VueJS and Laravel - tutsmake.com</title>
+<title>Video Upload With Conversion</title>
 <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
 </head>
 <body>
