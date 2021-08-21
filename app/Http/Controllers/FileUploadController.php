@@ -1,7 +1,7 @@
 <?php
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
-Use App\Photo;
+Use App\Models\Photo;
 class FileUploadController extends Controller
 {
     // function to store file in 'upload' folder
